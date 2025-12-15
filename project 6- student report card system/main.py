@@ -60,3 +60,5 @@ for _ in range(n):
     student.add_marks(subject, mark)
 
 student.display_report()
+
+# Verified in local system
