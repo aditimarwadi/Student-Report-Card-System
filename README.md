@@ -21,6 +21,16 @@ An OOP-based Python project to generate and display student report cards with su
 - Built-in Functions (sum, round)
 - Modular Program Design
 
+# Skills Used
+- Python object-oriented programming (classes, objects, methods)
+- Instance variables & methods usage
+- Loops & conditional statements for grading
+- Data storage using dictionaries
+- Input validation & user interaction
+- Built-in functions usage (sum, round)
+- Modular code design & debugging
+- Problem-solving & logical thinking
+
 # How to Run
 1. Ensure Python is installed.
 2. Run using: `python student_report_card.py`
